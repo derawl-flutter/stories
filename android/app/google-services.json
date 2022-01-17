@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "839917875900",
+    "project_id": "stories-86438",
+    "storage_bucket": "stories-86438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839917875900:android:dd8dc831885c764af9d6b9",
+        "android_client_info": {
+          "package_name": "com.delalieRawliings.stories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839917875900-npliism22kbf8rn6b77i7sofgfgmvi9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASz_w-8CM2-VoZxDFGHehiFN6dFl4Boqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839917875900-npliism22kbf8rn6b77i7sofgfgmvi9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839917875900:android:9db8c7af4dc56d1ef9d6b9",
+        "android_client_info": {
+          "package_name": "com.example.admob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839917875900-npliism22kbf8rn6b77i7sofgfgmvi9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASz_w-8CM2-VoZxDFGHehiFN6dFl4Boqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839917875900-npliism22kbf8rn6b77i7sofgfgmvi9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5168621748850818~9607632444"
+    }
+  ],
+  "configuration_version": "1"
+}
